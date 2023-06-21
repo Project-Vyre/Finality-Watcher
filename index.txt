@@ -1,7 +1,4 @@
-Finality FancyMenu Announcements Channel\n
-
-\n Hi! This is now a live web source which means
-\n any announcements from us will appear here!
+Finality FancyMenu Announcements Channel \n \n Hi! This is now a live web source which means \n any announcements from us will appear here!
 
 \n Menu Soundtrack Credits:
 \n [menu1.ogg] Heart of the Wicked - Cjbeards
