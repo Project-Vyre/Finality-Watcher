@@ -1,1 +1,21 @@
-Initial creation
+Finality: Mote Edition - FancyMenu Announcements Channel
+Hi! This is now a live web source which means 
+any announcements from us will appear here!
+
+Menu Soundtrack Credits:
+[menu1.ogg] Heart of the Wicked - Cjbeards
+[menu2.ogg] From the Shadows - Cjbeards
+[menu3.ogg] Cubeponk -  Cjbeards & Fayr
+[menu4.ogg] Mirror Mirror - Cjbeards
+
+From the Cjbeards Music Usage spreadsheet:
+All my music is royalty-free to use for YouTube and streaming,
+and most of my music (See the "Credits & Free Use" sheet) is
+also royalty-free to use for film, advertisements, video games,
+etc. but you must give credit in the proper way and to the right
+people.
+
+A note from the modpack author, CelestialAbyss:
+All the songs listed above are Free to Use, but I will extensively
+give credit where it is due. Links to the songs are attached on
+the modpack's GitHub wiki page.
