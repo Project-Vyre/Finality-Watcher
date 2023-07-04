@@ -1,4 +1,9 @@
 Finality Mote Announcements
+After further playtesting, we discovered that the recipe
+for creating Mystical Agriculture's Infusion Crystal is
+bugged. Keep an eye out for a new modpack update
+that reworks the recipe to be usable!
+
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
 
