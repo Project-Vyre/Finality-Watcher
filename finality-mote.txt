@@ -5,6 +5,11 @@ arrows that are parallel to each other and then selecting the
 modpack version through a dropdown menu. 0.1.2b is in progress
 with updates to Create and quest related.
 
+Update 2:
+Currently there are performance issues when Create's Steam 
+Engines are active. Currently trying to find which mod is
+responsible.
+
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
 
