@@ -1,10 +1,11 @@
 Finality Mote Announcements
+Finality Mote 0.1.2b is almost ready for release.
+
 Modpack version 0.1.1b has been approved. Please update as 
 soon as possible! 
 You can update by clicking an icon with opposing
 arrows that are parallel to each other and then selecting the 
-modpack version through a dropdown menu. 0.1.2b is in progress
-with updates to Create and quest related.
+modpack version through a dropdown menu.
 
 Update 3: The source of lag has been found, it is Sound
 Physics Remastered.
