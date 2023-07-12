@@ -1,6 +1,8 @@
 Finality Mote Announcements
-Finality Mote 0.1.2b has been released on CurseForge, keep
-checking for it!
+Modpack version 0.1.3b is in the works and being close to
+release.
+
+Cataclysm's new boss will be waiting for you.
 
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
