@@ -1,8 +1,7 @@
 Finality Mote Announcements
-Modpack version 0.1.3b is in the works and being close to
-release.
-
-Cataclysm's new boss will be waiting for you.
+Modpack update 0.1.3b is now out!
+Cataclysm's new boss is waiting for you.
+Good luck.
 
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
