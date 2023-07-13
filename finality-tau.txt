@@ -1,5 +1,8 @@
 Finality Tau Announcements
 
+Patch 04a2 is being worked on, please update as soon as
+possible!
+
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
 
