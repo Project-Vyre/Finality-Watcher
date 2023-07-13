@@ -1,7 +1,8 @@
 Finality Tau Announcements
 
-Patch 04a2 is being worked on, please update as soon as
-possible!
+Patch 04a3 has been released, please update as soon as
+possible for fixes and removal of the annoying night
+noises.
 
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
