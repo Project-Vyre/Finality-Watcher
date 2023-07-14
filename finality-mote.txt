@@ -5,7 +5,9 @@ Good luck.
 
 Update 0.1.4b is going to patch the Mystical
 Agriculture fluid requirement mismatch on the
-Master Infusion Crystal.
+Master Infusion Crystal and syncrhonize Create's
+Netherite Diving Helmet and Netherite Diving Boots to use
+the same durability as other Netherite armor.
 
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
