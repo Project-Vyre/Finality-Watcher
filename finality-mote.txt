@@ -3,6 +3,10 @@ Modpack update 0.1.3b is now out!
 Cataclysm's new boss is waiting for you.
 Good luck.
 
+Update 0.1.4b is going to patch the Mystical
+Agriculture fluid requirement mismatch on the
+Master Infusion Crystal.
+
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
 
