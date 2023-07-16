@@ -3,11 +3,13 @@ Modpack update 0.1.3b is now out!
 Cataclysm's new boss is waiting for you.
 Good luck.
 
-Update 0.1.4b is going to patch the Mystical
-Agriculture fluid requirement mismatch on the
-Master Infusion Crystal and syncrhonize Create's
-Netherite Diving Helmet and Netherite Diving Boots to use
-the same durability as other Netherite armor.
+Update 0.1.4b is going to patch the Mystical Agriculture fluid
+requirement mismatch on theMaster Infusion Crystal and
+syncrhonize Create's Netherite Diving Helmet and Netherite 
+DivingBoots to usethe same durability as other Netherite armor.
+The update will also patch FTB Quest progression regarding
+finding a Nether Fortress. After updating to 0.1.4 simply 
+re-visit YUNG's Nether Fortress to finish the quest.
 
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
