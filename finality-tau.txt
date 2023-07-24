@@ -1,4 +1,6 @@
 Finality Tau Announcements
+Patch 04a4 has been released.
+
 I have identified one cause of the error log being flooded
 on the server pack, it is Deeper and Darker by KyaniteMods.
 Deeper and Darker will be removed in patch 04a4.
