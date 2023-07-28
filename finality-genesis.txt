@@ -1,5 +1,8 @@
 Finality Genesis Live Channel
 
+Patch C for 0.1.2 is currently being reviewed by
+CurseForge. Remember to update soon once it is available!
+
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
 
