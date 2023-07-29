@@ -1,4 +1,7 @@
 Finality Tau Announcements
+Patch 04b5 will be removing Weeping Angels as it is a
+significant source of lag on both client and server-side.
+
 Patch 04a5 has been released with the addition of the
 Cave Dweller, the missing piece to the experience. Please
 update to it as soon as possible!
