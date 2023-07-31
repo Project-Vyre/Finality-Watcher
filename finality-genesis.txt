@@ -1,7 +1,11 @@
 Finality Genesis Live Channel
+I have found the cause as to why FTB Quests no longer displays
+recipes... Compatibility with JEI / REI was moved to a 
+seperate mod called FTB XMod Compat. Quest rework is going to
+start from Finality Genesis, so it will take some time to
+synchronize all the changes.
 
-Patch C for 0.1.2 is currently being reviewed by
-CurseForge. Remember to update soon once it is available!
+Patch C for 0.1.2 is now available, update soon!
 
 Hi! This is now a live web source which means 
 any announcements from us will appear here!
