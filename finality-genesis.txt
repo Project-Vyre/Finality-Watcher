@@ -1,4 +1,6 @@
 Finality Genesis Live Channel & Credits
+Issue 2: I forgot to put my backpacked recipe in...
+oops.
 Issue 1: 0.1.3 apparently does not set default configs for
 certain people despite having been configured correctly
 multiple times over.
