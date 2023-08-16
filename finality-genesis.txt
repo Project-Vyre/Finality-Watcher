@@ -1,4 +1,5 @@
 Finality Genesis Live Channel & Credits
+Version 0.1.3e has been released on CurseForge.
 Version 0.1.3b will fix the log being flooded with my damage
 cancellation script.
 Version 0.1.3 has been released on CF, but the removal
