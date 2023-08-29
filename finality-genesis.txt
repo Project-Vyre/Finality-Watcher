@@ -3,7 +3,7 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 
-Version 0.1.4 is in progress, with JEI being replaced by REI.
+Version 0.1.4 has been released, with JEI being replaced by REI.
 Version 0.1.3e has been released on CurseForge.
 Version 0.1.3b will fix the log being flooded with my damage
 cancellation script.
