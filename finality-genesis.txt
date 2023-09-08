@@ -9,6 +9,8 @@ PSA: If items have double tooltips, type the following command:
 This issue is outside of my control and is being looked into
 by the KubeJS team.
 
+0.1.4 Patch F has been merged into 0.2.0 due to the amount of
+changes, it's also far too large for 0.1.5.
 0.1.4 Patch E has reinstated JEI as the default recipe manager.
 Version 0.1.4 has been released, with JEI being replaced by REI.
 Version 0.1.3e has been released on CurseForge.
