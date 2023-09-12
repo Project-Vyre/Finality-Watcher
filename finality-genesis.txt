@@ -3,6 +3,20 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 
+0.2.0 Changes (In Development)
+- Migrated tooltips to utilize Create's tooltip registry.
+- As a result, I have implemented helpful tooltips on base 
+ingredients for guidance. This also avoids Rhino's concurrency
+issue, so tooltips can no longer be doubled or missing ever
+again.
+- Increased Zinc Nugget drop chance from Creepers from 5% to
+10%.
+- Witches now drop Lapis Lazuli, starting at 10% drop chance.
+Please check the Finality Wiki for more thorough documentation.
+- Increased yield of CUE and re-implemented original 
+acquisition method with some minor changes.
+Please see the Finality Wiki for a more thorough changelog.
+
 PSA: If items have double tooltips, type the following command:
 /kubejs reload client_scripts
 
