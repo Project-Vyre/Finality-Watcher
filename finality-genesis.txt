@@ -4,7 +4,9 @@ announcements from us will appear here! Credits are at the
 bottom of this text body.
 
 If you see a message that 0.2.0-rc1 is out, feel free to test
-the Alpha build.
+the Alpha build. You may have to change the CurseForge app
+settings to be able to install Alpha builds! You can also
+download it manually. BACK UP YOUR WORLD! You have been warned.
 
 Check the GitHub to see the changelog for 0.2! (Not finalized)
 
