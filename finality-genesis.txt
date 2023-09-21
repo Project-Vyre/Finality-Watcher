@@ -3,7 +3,10 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 
-Check the GitHub to see the changelog for 0.2!
+If you see a message that 0.2.0-rc1 is out, feel free to test
+the Alpha build.
+
+Check the GitHub to see the changelog for 0.2! (Not finalized)
 
 0.2.0 Changes (In Development)
 - Migrated tooltips to utilize Create's tooltip registry.
