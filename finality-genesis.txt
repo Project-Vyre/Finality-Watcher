@@ -3,8 +3,10 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 
-0.2.0-rc2 is close to being released, please update as soon
-as it is available on the CurseForge page.
+0.2.0-dev.3 is close to being released but is being held back
+due to issues related to Quark.
+
+0.2.0-rc2 is now available on CurseForge! Please update ASAP
 
 If you see a message that 0.2.0-rc1 is out, feel free to test
 the Alpha build. You may have to change the CurseForge app
