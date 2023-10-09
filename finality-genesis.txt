@@ -3,6 +3,10 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 
+0.2.0-dev.3 has been re-versioned to 0.2.0-rc3. Hopefully
+Quark does not cause any issues with 3.4.-414. Update to it
+ASAP when it is available on CurseForge!
+
 0.2.0-dev.3 is close to being released but is being held back
 due to issues related to Quark.
 
