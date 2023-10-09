@@ -3,6 +3,9 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 
+Update to 0.2.0-rc3.1! I forgot to add a way to obtain Lemon
+Seeds.
+
 0.2.0-dev.3 has been re-versioned to 0.2.0-rc3. Hopefully
 Quark does not cause any issues with 3.4.-414. Update to it
 ASAP when it is available on CurseForge!
