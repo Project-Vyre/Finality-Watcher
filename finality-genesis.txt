@@ -1,0 +1,6 @@
+If you are seeing this, then the file
+has been renamed to help with Minecraft 
+versioning.
+
+Please update to the newest version of
+the modpack!
