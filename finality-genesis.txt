@@ -7,14 +7,12 @@ bottom of this text body.
 
 Latest
 
-Full release for 0.2 is coming along nicely.
-However, Malum does add new structures. So
-you will either have to generate new
-chunks or re-generate your world using
-the same seed.
+Full release for 0.2 is coming along nicely. However, Malum 
+does add new structures. Soyou will either have to generate 
+newchunks or re-generate your world usingthe same seed.
 
-Either way, backup everything via schematic
-and you should be fine!
+Either way, backup everything via schematic and you should 
+be fine!
 
 ------------
 
