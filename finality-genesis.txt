@@ -10,7 +10,7 @@ with Minecraft versioning.
 
 Please update to the newest version of the modpack!
 
-Anyways, 0.2.0-build.15 should be available on CurseForge soon.
+Anyways, 0.2.0-build.24 should be available on CurseForge soon.
 
 ------------
 
