@@ -1,1 +1,8 @@
 Welcome to Finality Tau on 1.20.1. Hopefully you enjoy your stay! Hehe~
+
+Please note that while this is marked as beta, 1.20.1 is still
+relatively new. As such, things might go wrong more often.
+
+This port is also not in a finished state, but it's playable at least...
+
+Have fun!
