@@ -2,29 +2,21 @@ Finality Genesis Live Channel & Credits
 Hi! This is now a live web source which means any 
 announcements from us will appear here! Credits are at the
 bottom of this text body.
-
 ------------
-
 If you are seeing this, then the file has been renamed to help 
 with Minecraft versioning.
 
 Please update to the newest version of the modpack!
 
 Anyways, 0.2.0-build.24 should be available on CurseForge soon.
-
 ------------
-
-Latest
-
 Full release for 0.2 is coming along nicely. However, Malum 
 does add new structures. Soyou will either have to generate 
 newchunks or re-generate your world usingthe same seed.
 
 Either way, backup everything via schematic and you should 
 be fine!
-
 ------------
-
 Update to 0.2.0-rc3.1! I forgot to add a way to obtain Lemon
 Seeds.
 
