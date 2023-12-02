@@ -3,7 +3,7 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 ------------
-0.2.0-build.26 is being released soon.
+0.2.0-build.26 is now live!
 Also, there seems to be a new issue with FTB Quests not
 detecting items from players' inventories despite
 there being no special conditions while in a dedicated
