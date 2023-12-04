@@ -1,4 +1,8 @@
 Finality Mote Announcements
+
+0.1.6 is now being worked on with changes from Finality Genesis
+being carried over.
+
 I have found the cause as to why FTB Quests no longer displays
 recipes... Compatibility with JEI / REI was moved to a 
 seperate mod called FTB XMod Compat. Quest rework is going to
