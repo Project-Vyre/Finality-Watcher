@@ -3,6 +3,9 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 ------------
+Malum is getting removed next update until a bugfix
+is implemented on their side.
+
 0.2.0-build.31 is now live! Please update to it as it
 addresses an issue with the Aether mod causing a crash
 whenever you attempt to join a server.
