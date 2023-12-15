@@ -3,9 +3,9 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 ------------
-Warning to all modpack players! Malum signs will cause a
-crash and you won't be able to re-enter your world until the
-sign has been removed.
+Good news! The crash with Malum's signs has been fixed
+with the power of KubeJS in 0.2.0-build.32 which will
+be releasing soon. You are safe to use the signs now!
 
 0.2.0-build.31 is now live! Please update to it as it
 addresses an issue with the Aether mod causing a crash
