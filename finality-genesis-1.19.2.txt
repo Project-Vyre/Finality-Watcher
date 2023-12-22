@@ -3,6 +3,10 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 ------------
+0.2.0-build.33 has been reversioned to 0.2.0-build.35
+due to the amount of changes with some breaking recipe
+changes. It will be released SoonTM!
+
 Good news! The crash with Malum's signs has been fixed
 with the power of KubeJS in 0.2.0-build.32 which should
 now be approved on CurseForge. You are now safe to use
