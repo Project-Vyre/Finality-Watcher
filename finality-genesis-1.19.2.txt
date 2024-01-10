@@ -3,6 +3,10 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 ------------
+0.2.0-build.39 will be addressing some recipe conflicts
+that were not expected, apologies if you were experiencing
+issues with creating Unstable Entropy Particles!
+
 0.2.0-build.37 will be removing WorldEdit due to
 performance issues. Check for the update soon!
 
