@@ -5,7 +5,10 @@ bottom of this text body.
 ------------
 0.2.0-build.39 will be addressing some recipe conflicts
 that were not expected, apologies if you were experiencing
-issues with creating Unstable Entropy Particles!
+issues with creating Unstable Entropy Particles! However
+this update is going to be delayed due to a few "small"
+changes in how my scripts are organized and updates
+from mod authors. Apologies for the wait!
 
 0.2.0-build.37 will be removing WorldEdit due to
 performance issues. Check for the update soon!
