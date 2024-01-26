@@ -3,42 +3,19 @@ Hi! This is now a live web source which means any
 announcements from us will appear here! Credits are at the
 bottom of this text body.
 ------------
+0.2.0-build.39 has been changed to 0.2.1-build.39.
+However, the update may take longer due to performance
+issues I keep running into under specific conditions
+that may require an increase in allocated RAM.
+
+
 0.2.0-build.39 will be addressing some recipe conflicts
 that were not expected, apologies if you were experiencing
 issues with creating Unstable Entropy Particles! However
 this update is going to be delayed due to a few "small"
 changes in how my scripts are organized and updates
 from mod authors. Apologies for the wait!
-
-0.2.0-build.37 will be removing WorldEdit due to
-performance issues. Check for the update soon!
-
-0.2.0-build.33 has been reversioned to 0.2.0-build.35
-due to the amount of changes with some breaking recipe
-changes. It will be released SoonTM!
-
-Good news! The crash with Malum's signs has been fixed
-with the power of KubeJS in 0.2.0-build.32 which should
-now be approved on CurseForge. You are now safe to use
-the signs in your world now!
-
-0.2.0-build.31 is now live! Please update to it as it
-addresses an issue with the Aether mod causing a crash
-whenever you attempt to join a server.
-
-Also, there seems to be a new issue with FTB Quests not
-detecting items from players' inventories despite
-there being no special conditions while in a dedicated
-server environment. This DOES NOT apply to players who
-host multiplayer sessions through Essential or LAN!
 ------------
-Full release for 0.2 is now out! However, Malum 
-does add new structures. Soyou will either have to generate 
-newchunks or re-generate your world usingthe same seed.
-
-Either way, backup everything via schematic and you should 
-be fine!
-
 Menu Soundtrack Credits:
 [menu1.ogg] Heart of the Wicked - Cjbeards
 [menu2.ogg] From the Shadows - Cjbeards
