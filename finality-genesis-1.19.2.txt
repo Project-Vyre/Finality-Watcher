@@ -5,8 +5,12 @@ bottom of this text body.
 
 ------------
 
-0.2.1-build.40 has been uploaded to CurseForge, though it has
-triggered a manual review. Please be patient!
+The 0.2.1-build.41 has been uploaded to CurseForge, though it
+has triggered a manual review. Please be patient and keep
+checking!
+
+Iron's Spells n' Spellbooks also had a major update but I am
+saving it for the 1.20.1 port of this modpack. See you soon!
 
 ------------
 Menu Soundtrack Credits:
