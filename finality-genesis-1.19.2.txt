@@ -1,22 +1,19 @@
 Finality Genesis Live Channel & Credits
-Hi! This is now a live web source which means any 
-announcements from us will appear here! Credits are at the
-bottom of this text body.
+Hi! This is now a live web source which means any announcements from us will appear here! Credits are at the bottom of this text body.
 
 ------------
 
-Unfortunately due to the lack of players, the official SMP will
-be closed down until engagement is back to nominal levels.
-Apologies in advance.
+SMP server has been set up once again! However, you will need 0.2.1-build.50 to join the server. 
+Thank you ChiefArug for recommending me ^-^
 
-The 0.2.1-build.41 has been uploaded to CurseForge, though it
+The 0.2.1-build.50 has been uploaded to CurseForge, though it
 has triggered a manual review. Please be patient and keep
 checking!
-Iron's Spells n' Spellbooks also had a major update but I am
-saving it for the 1.20.1 port of this modpack. See you soon!
 
 ------------
+
 Menu Soundtrack Credits:
+
 [menu1.ogg] Heart of the Wicked - Cjbeards
 [menu2.ogg] From the Shadows - Cjbeards
 [menu3.ogg] Arlecchino Battle Theme Phase 1 & 2 (Fan-Made)
