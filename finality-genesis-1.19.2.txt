@@ -6,6 +6,9 @@ Hi! This is now a live web source which means any announcements from us will app
 SMP server has been set up once again! However, you will need 0.2.1-build.50 to join the server. 
 Thank you ChiefArug for recommending me ^-^
 
+0.2.1-build.51 is being worked on with fixes to recipes yet again...
+Hopefully not too much has been broken as a result ;-;
+
 The 0.2.1-build.50 has been uploaded to CurseForge, though it
 has triggered a manual review. Please be patient and keep
 checking!
