@@ -3,10 +3,9 @@ Hi! This is now a live web source which means any announcements from us will app
 
 ------------
 
-SMP server has been set up once again! However, you will need update 0.2.1-build.51 installed in order to join the server. 
-Thank you ChiefArug for recommending me ^-^
+Thank you ChiefArug for recommending me on the CurseForge monthly ^-^
 
-0.2.1-build.51 has now been released! Please update to it as soon as possible!
+0.2.1-build.64 has now been released! Please update to it as soon as possible to join the SMP server. Remember, the IP is finality.kinetichosting.gg
 
 ------------
 
