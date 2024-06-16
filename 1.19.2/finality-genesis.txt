@@ -1,13 +1,9 @@
-Finality Genesis Live Channel & Credits
+# Finality Genesis 1.19.2 Feed
 Hi! This is now a live web source which means any announcements from us will appear here! Credits are at the bottom of this text body.
 
-------------
+While 0.2.1-build.72 is now available for download on CurseForge, the server will remain on 0.2.1-build.64 until the 1.20.1 port is ready. Thank you for playing the 1.19.2 version of Finality Genesis!
 
 The 1.20.1 port is now uploaded to CurseForge as an Alpha release. There are things I still need to address before going into Beta.
-
-Thank you ChiefArug for recommending me on the CurseForge monthly ^-^
-
-0.2.1-build.64 has now been released! Please update to it as soon as possible to join the SMP server. Remember, the IP is finality.kinetichosting.gg
 
 ------------
 
