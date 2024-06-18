@@ -1,9 +1,6 @@
-Finality Genesis Live Channel & Credits
-Hi! This is now a live web source which means any announcements from us will appear here! Credits are at the bottom of this text body.
+Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
 
-------------
-
-Welcome to the 1.20.1 port!
+0.1.0-beta.16-mc1.20.1 has been uploaded to CurseForge, please update to it as soon as possible when it becomes available!
 
 ------------
 
