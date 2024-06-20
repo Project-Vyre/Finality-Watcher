@@ -2,9 +2,11 @@
 
 Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
 
-Update: The in-game notifier has been fixed! Yaaaay!
+Update: The in-game notifier has been fixed! Yaaaay! 0.1.0-beta.17 will be available at some point at the time of writing this message. Please update to it as soon as possible when it becomes available!
 
-0.1.0-beta.17-mc1.20.1 will be available at some point at the time of writing this message. Please update to it as soon as possible when it becomes available!
+## Notice
+
+There are apparently more breaking changes from mods that I did not see such as the new Tempad cooldown. A patch to address this will be available at a later update.
 
 ------------
 
