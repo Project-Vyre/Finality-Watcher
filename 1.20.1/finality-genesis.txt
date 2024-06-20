@@ -1,7 +1,7 @@
+# Finality Genesis 1.20.1 Feed
+
 Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
-
 0.1.0-beta.16-mc1.20.1 has been uploaded to CurseForge, please update to it as soon as possible when it becomes available!
-
 Unfortunately, I still need to fix the in-game update notifier due to package changes from Better Compatibility Checker so you will need to read this every time.
 
 ------------
