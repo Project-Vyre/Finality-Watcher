@@ -2,6 +2,12 @@
 
 Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
 
+## 2024.06.29
+
+Update 0.1.0-beta.20 will take some time to release just so I can give myself time instead of quickly pushing out updates.
+
+## 2024.06.23
+
 Update 0.1.0-beta.18 has been approved on CurseForge and addresses the loud and annoying musical backpack on entities, incorrect Tempad cooldown and more. Please update to it as soon as possible!
 
 ------------
