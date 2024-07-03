@@ -2,6 +2,12 @@
 
 Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
 
+If you currently have issues trying to play with friends, disable **Simple Discord RPC** as it causes severe lag when connecting directly to servers instead of connecting from a saved server entry.
+
+## 2024.07.03
+
+Update 0.1.0-beta.20 has been uploaded to CurseForge with the big minor update for Apotheosis. Enjoy your power fantasy!
+
 ## 2024.06.29
 
 Update 0.1.0-beta.20 will take some time to release just so I can give myself time instead of quickly pushing out updates.
