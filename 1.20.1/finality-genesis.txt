@@ -2,23 +2,11 @@
 
 Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
 
-If you currently have issues trying to play with friends, disable **Simple Discord RPC** as it causes severe lag when connecting directly to servers instead of connecting from a saved server entry.
+If you currently have issues trying to play with friends, disable **Simple Discord RPC** as it causes severe lag when connecting directly to servers instead of connecting from a saved server entry. Update 0.1.1-beta.22 addresses this.
 
-## 2024.07.13
+## 2024.07.23
 
-Update 0.1.0-beta.22 is coming along slowly as it is a larger than normal small update. In the meantime if you are still experiencing random crashes related to LittleTiles please disable **Translucent Face Sorting** in Embeddium's **Quality** tab.
-
-## 2024.07.03
-
-Update 0.1.0-beta.20 has been uploaded to CurseForge with the big minor update for Apotheosis. Enjoy your power fantasy!
-
-## 2024.06.29
-
-Update 0.1.0-beta.20 will take some time to release just so I can give myself time instead of quickly pushing out updates.
-
-## 2024.06.23
-
-Update 0.1.0-beta.18 has been approved on CurseForge and addresses the loud and annoying musical backpack on entities, incorrect Tempad cooldown and more. Please update to it as soon as possible!
+Notice: Soooo uhhh... 0.1.1-beta.23 did not actually fix the True Final Singularity recipe. Stay tuned for a patch after more testing has been done!
 
 ------------
 
