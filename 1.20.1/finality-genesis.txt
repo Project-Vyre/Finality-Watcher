@@ -5,6 +5,7 @@ Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes
 ## 2024.08.25
 
 So I released update 0.1.1.-beta.26 and the script that adds the unbreakable NBT data to tools doesn't work on dedicated Multiplayer servers... A patch will be released hopefully soon once I figure it out.
+Another PSA: Drills may require you to turn off block protection in claimed chunks due to Create: Enchantable Machinery modifying drills. Sorry for the inconvenience!
 
 If you currently have issues trying to play with friends, disable **Simple Discord RPC** as it causes severe lag when connecting directly to servers instead of connecting from a saved server entry. Update 0.1.1-beta.22 addresses this.
 
