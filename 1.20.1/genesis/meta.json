@@ -1,5 +1,18 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
-  "versions": []
+  "versions": [
+    {
+      "id": "1201.1.2-beta.27",
+      "releasedAt": 209384093820,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/",
+          "curseforge": "https://curseforge.com/",
+          "generic": "https://example.com/"
+        }
+      },
+      "updateType": "minor_breaking"
+    }
+  ]
 }
