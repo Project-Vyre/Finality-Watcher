@@ -1,6 +1,11 @@
 # Finality Genesis 1.20.1 Feed
 
-Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here!
+Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here! Date format is in YYYY.MM.DD.
+
+## 2024.09.19
+
+I will be shifting my attention towards porting Finality Mote to 1.20.1. As for update 0.1.2-beta.27, it's *almost* ready.
+However, the SMP server will be reset once the port for Finality Mote on 1.20.1 is released and will also run on it. Let's just say Finality Genesis has once again become too big to run on a server in a stable manner despite having very similar mod lists. Apologies for any further inconveniences!
 
 ## 2024.08.25
 
