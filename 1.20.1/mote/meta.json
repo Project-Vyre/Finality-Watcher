@@ -4,23 +4,23 @@
   "versions": [
     {
       "id": "1201.1.0-alpha.2",
+      "updateType": "minor",
       "releasedAt": 1729083780000,
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality-mote"
         }
-      },
-      "updateType": "minor"
+      }
     },
     {
       "id": "1201.1.0-alpha.1",
+      "updateType": "minor",
       "releasedAt": 1729083780000,
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality-mote"
         }
-      },
-      "updateType": "minor"
+      }
     }
   ]
 }
