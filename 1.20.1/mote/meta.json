@@ -3,7 +3,7 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1201.1.0-alpha.2",
+      "id": "1201.1.0-alpha.1",
       "releasedAt": 1729083780000,
       "updateType": "minor",
       "promotions": {
@@ -13,7 +13,7 @@
       }
     },
     {
-      "id": "1201.1.0-alpha.1",
+      "id": "1201.1.0-alpha.2",
       "releasedAt": 1729083780000,
       "updateType": "minor",
       "promotions": {
