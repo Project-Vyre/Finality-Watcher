@@ -29,8 +29,6 @@ A publicly released server pack will be released with this update.
     - Clod blocks and items
   - Added loot tables for Amalgam and Clod ore so their respective materials will be obtainable. Requires a pickaxe.
 
-N/A
-
 <details>
 <summary>1201.1.0-alpha.3 mod additions</summary>
 
