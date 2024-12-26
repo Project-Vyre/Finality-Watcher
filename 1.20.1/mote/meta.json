@@ -24,7 +24,17 @@
     },
     {
       "id": "1201.1.0-alpha.3",
-      "releasedAt": 1730093040000,
+      "releasedAt": 1735110720000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality-mote"
+        }
+      }
+    },
+    {
+      "id": "1201.1.0-alpha.4",
+      "releasedAt": 1735189200000,
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
