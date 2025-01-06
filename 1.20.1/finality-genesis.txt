@@ -2,6 +2,10 @@
 
 Hello and welcome to the 1.20.1 port of Finality Genesis. This text body changes whenever I update it on the GitHub repository, so stay tuned for live updates from here! Date format is in YYYY.MM.DD.
 
+## 2024.01.05
+
+Updates are going to be on hold to prioritize development on Finality Mote 1.20.1. Apologies for any bugs that continue to persist, such as the original recipe for the Mechanical Extruder no longer being overriden due to a mod update.
+
 ## 2024.09.28
 
 Finality Genesis update 1201.1.2-beta.27 has been uploaded to CurseForge, but I will most likely not be active for some time. The SMP server has also been archived for the time being.
