@@ -1,0 +1,169 @@
+The spawn egg acquisition update and recipe cost readjusting. Unfortunately, Create tooltips are broken with an unknown cause that I can't determine.
+
+This modpack will not be updating to Create 6.0.0 immediately as many things have been broken and will need to be redone, apologies for the inconvenience caused.
+
+### Fixed
+
+- 2025.01.18
+  - Fixed Celestisynth Starlit Factory
+- 2025.01.05
+  - Added missing black pixels to the vanilla enchanting GUI texture.
+- 2024.12.31
+  - Fixed train directional arrow being too large. This is due to Create's Placement Assist size scaling being deliberately linked to this for whatever reason.
+- 2024.12.29
+  - Fixed FTB Quests node "Tutorial - Part 2" giving a quiver and bow that you already made to complete it. 4 AM braincells.
+
+### Added
+
+- 2024.12.29
+  - Added Deconstructor recipes for the following items:
+    - Chest Minecart
+    - Furnace Minecart
+    - TNT Minecart
+    - Hopper Minecart
+    - Dispenser Minecart (Supplementaries)
+    - Jukebox Minecart (Etched)
+
+<details>
+<summary>1201.1.0-alpha.5 mod additions</summary>
+
+- 2025.01.03
+  - Pipez
+- 2024.12.31
+  - Just Enough items
+    - Just Enough Professions
+  - Reliquary
+  - Sophisticated Storage
+
+</details>
+
+### Changed
+
+- 2024.12.31
+  - Updated FML from `47.3.7` to `47.3.22`
+  - Updated Sophisticated mod GUI textures.
+- 2024.12.29
+  - Changed the Duplicator recipe to no longer require High Entropy Alloy Nuggets. Now only requires 2 Enduring Fibers.
+
+<details>
+<summary>1201.1.0-alpha.5 mod updates</summary>
+
+- 2025.03.10
+  - Lightman's Currency `2.2.4.3d` to `2.2.4.4`
+- 2025.02.28
+  - Amendments `1.2.16` to `1.2.18`
+  - Balm `7.3.11` to `7.3.18`
+  - Caupona `0.4.10` to `0.4.11`
+  - Collective `7.87` to `7.93`
+  - Create: Enchantable Machinery `2.9.9` to `2.9.10`
+  - Curios API `5.11.1` to `5.12.1`
+  - Drippy Loading Screen `3.0.9` to `3.0.11`
+  - Exposure `1.7.7` to `1.7.9`
+  - FancyMenu `3.3.2` to `3.4.6`
+  - FramedBlocks `9.3.1` to `9.3.2`
+  - Fruitful Fun `7.6.8` to `7.6.9`
+  - FTB Quests `2001.4.10` to `2001.4.11`
+  - FTB Ranks `2001.1.3` to `2001.1.4`
+  - Fusion `1.2.3` to `1.2.4`
+  - Healing Campfire `6.1` to `6.2`
+  - Just Enough Effect Descriptions `2.2.5` (Released on 1/28/2025) to `2.2.5` (Released on 2/8/2025)
+  - Kiwi `11.8.29` to `11.8.30`
+  - Lightman's Currency `2.2.4.2a` to `2.2.4.3d`
+  - Lychee `5.1.16` to `5.1.17`
+  - Moonlight Lib `2.13.58` to `2.13.71`
+  - Nolijium `0.5.4` to `0.5.5`
+  - Oh The Biomes We've Gone `1.5.4` to `1.5.7`
+  - Personality `4.0.0` to `4.1.0`
+  - Rhino `2001.2.3-build.6` to `2001.2.3-build.10`
+  - Simple Discord Link Bot `3.2.2` to `3.2.3`
+  - Sophisticated Backpacks `3.23.4.1196` to `3.23.6.1210`
+  - Sophisticated Core `1.2.6.858` to `1.2.20.894`
+  - Sophisticated Storage `1.3.3.1058` to `1.3.9.1075`
+  - Storage Labels `1.20.1` to `2.0.0`
+  - Supplementaries `3.1.13` to `3.1.18`
+- 2025.02.06
+  - Amendments `1.2.14` to `1.2.16`
+  - Applied Energistics 2 `15.3.2` to `15.3.3`
+  - Balm `7.3.10` to `7.3.11`
+  - Blueprint `7.1.0` to `7.1.1`
+  - CobbleGen `5.3.14` to `5.3.15`
+  - CraterLib `2.1.2+hotfix.1` to `2.1.3`
+  - Create: Enchantable Machinery `2.8.8` to `2.9.9`
+  - CreativeCore `2.12.28` to `2.12.31`
+  - Curios API `5.11.0` to `5.11.1`
+  - EntityJS `0.4.0` to `0.4.3`
+  - Farmer's Delight `1.2.6` to `1.2.7`
+  - FTB chunks `2001.3.4` to `2001.3.5`
+  - FTB Library `2001.2.7` to `2001.2.9`
+  - FTB Quests `2001.4.9` to `2001.4.10`
+  - FTB Teams `2001.3.0` to `2001.3.1`
+  - Fusion `1.1.1` to `1.2.3`
+  - Integrated Stronghold `1.1.1` to `1.1.2`
+  - Jade `11.12.2` to `11.12.3`
+  - Just Enough Effect Descriptions `2.2.2` to `2.2.5`
+  - Just Enough Items `15.20.0.106` to `15.20.0.106`
+  - Kiwi `11.8.28` to `11.8.29`
+  - Lightman's Currency `2.2.4.1c` to `2.2.4.2a`
+  - Lychee `5.1.15` to `5.1.16`
+  - ModernFix `5.20.0` to `5.20.2`
+  - Moonlight Lib `2.13.45` to `2.13.58`
+  - Nolijium `0.5.1` to `0.5.4`
+  - Oh the Biome's We've Gone `1.5.0` to `1.5.4`
+  - Patchouli `1.20.1-84` to `1.20.1-84.1`
+  - Simple Discord Link Bot `3.2.1` to `3.2.2`
+  - Sophisticated Backpacks `3.21.2.1163` to `3.23.4.1193`
+  - Sophisticated Core `1.0.8.826` to `1.2.6.858`
+  - Sophisticated Storage `1.0.9.1005` to `1.3.3.1058`
+  - Supplementaries `3.1.11` to `3.1.13`
+- 2025.01.05
+  - Nolijium `0.4.0` to `0.5.1`
+  - Sophisticated Core `1.0.6.824` to `1.0.8.828`
+  - Sophisticated Storage `1.0.7.1000` to `1.0.9.1005`
+- 2025.01.03
+  - Caupona `0.4.9` to `0.4.10`
+  - ~~Connectivity `6.3` to `6.5`~~
+  - CreativeCore `2.12.27` to `2.12.28`
+  - FTB XMod Compat `2.1.1` to `2.1.2`
+  - Integrated Dungeons and Structures `1.10.2` to `1.10.3`
+  - Integrated Villages `1.1.4` to `1.1.5`
+  - Sophisticated Core `1.0.5.822` to `1.0.6.824`
+  - Sophisticated Storage `1.0.5.997` to `1.0.7.1000`
+- 2024.12.31
+  - Amendments `1.2.12` to `1.2.14`
+  - CobbleGen `5.3.13` to `5.3.14`
+    - Fixes integration with Create patches I and J.
+  - Enhanced Celestials `5.0.2.2` to `5.0.2.3`
+  - GeckoLib `4.4.9` to `4.7`
+  - Lightman's Currency `2.2.4.1b` to `2.2.4.1c`
+  - ModernFix `5.19.7` to `5.20.0`
+  - Moonlight Lib `2.13.42` to `2.13.45`
+  - Oh The Biomes We've Gone `1.4.4` to `1.5.0`
+  - Oh The Trees You'll Grow `1.3.3` to `1.3.4`
+  - Sophisticated Backpacks `3.20.17.1150` to `3.21.1.1161` to `3.21.2.1163`
+  - Sophisticated Core `1.0.1.809` to `1.0.4.820` to `1.0.5.822`
+  - SuperMartijn642's Core Lib `1.1.17a` to `1.1.18`
+- 2024.12.26
+  - ~~Connectivity `6.1` to `6.3`~~
+  - DimensionalDoors `5.4.2` to `5.4.3`
+  - Integrated Villages `1.1.3` to `1.1.4`
+  - Moonlight Lib `2.13.41` to `2.13.42`
+
+</details>
+
+### Removed
+
+- 2024.12.31
+  - Removed the item application recipe for making a Chest Minecart.
+
+<details>
+<summary>1201.1.0-alpha.5 mod removals</summary>
+
+- 2025.02.06
+  - Connectivity
+    - Cupboard
+- 2024.12.31
+  - Roughly Enough items
+    - REIPC
+    - Roughly Enough Professions
+
+</details>
