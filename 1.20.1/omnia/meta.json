@@ -3,8 +3,8 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1201.0.1-alpha.25",
-      "releasedAt": 1727341380000,
+      "id": "1201.0.1-alpha.1",
+      "releasedAt": 1746992220,
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality"
@@ -13,8 +13,8 @@
       "updateType": "alpha"
     },
     {
-      "id": "1201.0.1-alpha.1",
-      "releasedAt": 1746992220,
+      "id": "1201.0.1-alpha.25",
+      "releasedAt": 1727341380000,
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality"
