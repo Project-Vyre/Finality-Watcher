@@ -19,7 +19,7 @@ Edit: This has been fixed with EntityJS update `0.4.9`.
   - Added a recipe to duplicate Infrangible Fiber with the Duplicator.
 
 <details>
-<summary>1201.0.1-alpha.2 mod additions</summary>
+<summary>1201.0.1-alpha.25 mod additions</summary>
 
 - 2025.05.15
   - JustHammers
@@ -48,7 +48,7 @@ Edit: This has been fixed with EntityJS update `0.4.9`.
   - EMI's search bar is no longer centered to prevent obstruction of the hotbar and certain GUI screens from Sophisticated Backpacks and Sophisticated Storage. You're welcome!
 
 <details>
-<summary>1201.0.1-alpha.2 mod updates</summary>
+<summary>1201.0.1-alpha.25 mod updates</summary>
 
 - 2025.05.15
   - EntityJS `0.4.8` to `0.4.9`
@@ -78,7 +78,7 @@ Edit: This has been fixed with EntityJS update `0.4.9`.
   - Removed End of Herobrine due to the boss version causing crashes.
 
 <details>
-<summary>1201.0.1-alpha.2 mod removals</summary>
+<summary>1201.0.1-alpha.25 mod removals</summary>
 
 - 2025.05.15
   - Just Enough Items
