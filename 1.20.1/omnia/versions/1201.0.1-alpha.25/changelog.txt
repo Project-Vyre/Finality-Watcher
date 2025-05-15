@@ -38,7 +38,6 @@ Edit: This has been fixed with EntityJS update `0.4.9`.
   - Emerald superheated renewal recipe now produces a block of emerald at a time.
   - Further increased sanity drain from darkness. Y̵̮͝Ŏ̸̡͕U̷̢̻͑̽ ̸̤͗̽C̴̫̲͆̽Ã̶̤͙N̸͈̻̆̇'̶̤̝̑̏T̶̒ͅ ̸̱̰̌̊E̸͉̥͆S̶̹͗̏C̶̻̆Ȃ̴̦P̴̧̢͂̈Ę̵̂ ̸̥̅T̴͇̦͛H̶͎̳̆E̷̮͇̎͒ ̴̡͙̋Ś̵̯Ṳ̵̆̕C̶̘͉͛͌C̶̻͌È̶̦S̴̜͍̿̕S̶̺͌Ó̶̡̳R̸̨̾̓ͅS̵̢̋̎ ̵̎͛͜Ỏ̵̦F̵̠͂͝ ̸̹͍̇͒T̵͉͘H̶̫͌Ë̴̥́͑ ̵̹̆ͅG̸̺̗̐R̷̤̽̐Ṷ̵͔̄E̷͎̽
   - Sanity entities can no longer be damaged.
-  - Removed Tinker's Construct recipe for making netherite.
 - 2025.05.13
   - Duplicator recipe has been changed automatically due to the removal of Dimensional Doors.
   - Unified the recipes for Sophisticated Storage chests to use Electron Tubes instead of Redstone Torches.
@@ -81,6 +80,8 @@ Edit: This has been fixed with EntityJS update `0.4.9`.
 <details>
 <summary>1201.0.1-alpha.2 mod removals</summary>
 
+- 2025.05.15
+  - Just Enough Items
 - 2025.05.13
   - Dimensional Doors
   - End of Herobrine
