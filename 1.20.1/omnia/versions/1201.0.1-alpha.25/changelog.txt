@@ -1,0 +1,88 @@
+Very minor patch. ~~Unfortunately I am still not able to fix fireballs causing issues on dedicated server environments.~~
+Edit: This has been fixed with EntityJS update `0.4.9`.
+
+### Fixed
+
+- 2025.05.15
+  - Fixed missing item textures for custom KubeJS gems. I have no idea why I locked it behind requiring Gateways to Eternity to be loaded...
+    - Fixed missing translation key for custom KubeJS gems. It's for the same reason above
+  - Added a temporary tooltip for the gem info while looking for solutions related to the Create tooltip registry.
+
+### Added
+
+- 2025.05.14
+  - Added a Mechanical Extruder recipe to produce amethyst shards, though with significantly less efficiency.
+  - Added a superheated compacting recipe for Budding Amethyst to produce Amethyst Shards that doesn't consume the Budding Amethyst.
+- 2025.05.13
+  - Added a recipe to make Substitute Jizo from the Touhou Little Maid mod.
+- 2025.05.12
+  - Added a recipe to duplicate Infrangible Fiber with the Duplicator.
+
+<details>
+<summary>1201.0.1-alpha.2 mod additions</summary>
+
+- 2025.05.15
+  - JustHammers
+- 2025.05.14
+  - Just Enough Professions
+  - Just Enough Resources
+  - Particular
+
+</details>
+
+### Changed
+
+- 2025.05.14
+  - Updated retexture of Create's `widgets.png` to be compatible with Create v6.
+  - Amethyst Shard superheated renewal recipe now produces a block of amethyst at a time.
+  - Emerald superheated renewal recipe now produces a block of emerald at a time.
+  - Further increased sanity drain from darkness. Y̵̮͝Ŏ̸̡͕U̷̢̻͑̽ ̸̤͗̽C̴̫̲͆̽Ã̶̤͙N̸͈̻̆̇'̶̤̝̑̏T̶̒ͅ ̸̱̰̌̊E̸͉̥͆S̶̹͗̏C̶̻̆Ȃ̴̦P̴̧̢͂̈Ę̵̂ ̸̥̅T̴͇̦͛H̶͎̳̆E̷̮͇̎͒ ̴̡͙̋Ś̵̯Ṳ̵̆̕C̶̘͉͛͌C̶̻͌È̶̦S̴̜͍̿̕S̶̺͌Ó̶̡̳R̸̨̾̓ͅS̵̢̋̎ ̵̎͛͜Ỏ̵̦F̵̠͂͝ ̸̹͍̇͒T̵͉͘H̶̫͌Ë̴̥́͑ ̵̹̆ͅG̸̺̗̐R̷̤̽̐Ṷ̵͔̄E̷͎̽
+  - Sanity entities can no longer be damaged.
+  - Removed Tinker's Construct recipe for making netherite.
+- 2025.05.13
+  - Duplicator recipe has been changed automatically due to the removal of Dimensional Doors.
+  - Unified the recipes for Sophisticated Storage chests to use Electron Tubes instead of Redstone Torches.
+    - The previous recipe was intended to incentivize players to use chests from Quark and Woodworks to combine with Redstone Torches.
+- 2025.05.12
+  - Changed Tempad cooldown from 3 minutes to 10 seconds.
+- 2025.05.11
+  - EMI's search bar is no longer centered to prevent obstruction of the hotbar and certain GUI screens from Sophisticated Backpacks and Sophisticated Storage. You're welcome!
+
+<details>
+<summary>1201.0.1-alpha.2 mod updates</summary>
+
+- 2025.05.15
+  - EntityJS `0.4.8` to `0.4.9`
+  - FancyMenu `3.5.0` to `3.5.2`
+  - Framework `0.7.12` to `0.7.15`
+- 2025.05.14
+  - Create: Central Kitchen `1.4.0.d` to `1.4.1`
+  - Dark Doppelganger `9.2.0` to `9.2.3`
+  - Sophisticated Core `1.2.55.975` to `1.2.57.978`
+- 2025.05.13
+  - AmbientSounds `6.1.9` to `6.1.10`
+  - Lightman's Currency `2.2.5.1c` to `2.2.5.2`
+- 2025.05.12
+  - Balm `7.3.28` to `7.3.29`
+  - Sophisticated Backpacks `3.23.14.1233` to `3.23.15.1236`
+  - Sophisticated Core `1.2.52.967` to `1.2.55.975`
+  - Sophisticated Storage `1.3.40.1140` to `1.3.42.1146`
+
+</details>
+
+### Removed
+
+- 2025.05.15
+  - Replaced JEI with TMRV to lower RAM usage faster and accelerate world load times.
+- 2025.05.13
+  - Removed Dimensional Doors due to players getting timed out in a dedicated server environment and performance issues.
+  - Removed End of Herobrine due to the boss version causing crashes.
+
+<details>
+<summary>1201.0.1-alpha.2 mod removals</summary>
+
+- 2025.05.13
+  - Dimensional Doors
+  - End of Herobrine
+
+</details>
