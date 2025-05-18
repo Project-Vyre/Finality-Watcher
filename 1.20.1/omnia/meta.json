@@ -24,6 +24,16 @@
     },
     {
       "id": "1201.0.1-alpha.26",
+      "releasedAt": 1747349580,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality"
+        }
+      },
+      "updateType": "alpha"
+    },
+    {
+      "id": "1201.0.1-alpha.27",
       "releasedAt": 1747329420,
       "promotions": {
         "downloads": {
