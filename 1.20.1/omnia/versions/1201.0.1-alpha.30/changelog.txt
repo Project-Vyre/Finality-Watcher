@@ -1,0 +1,113 @@
+Farewell to Sanity due to unforeseen headaches...
+
+### Fixed
+
+N/A
+
+### Added
+
+- Added Quark's Limestone to... (Stone Mason villager?) trade pool.
+
+<details>
+<summary>1201.0.1-alpha.30 mod additions</summary>
+
+- 2025.06.24
+  - Elytra Slot
+  - Measurements
+- 2025.06.16
+  - Opalescence
+
+</details>
+
+### Changed
+
+- 2025.06.16
+  - Made the following weight changes for Lunar's events as they still had the default values:
+    - Changed Blood Moon weight from 60 to 10.
+    - Changed Crimson Moon weight from 20 to 5.
+    - Changed Miner Moon weight from 40 to 45.
+    - Changed White Moon weight from 10 to 50.
+    - Changed Tiny Moon weight from 10 to 25.
+    - Changed Big Moon weight from 10 to 25.
+    - Changed Bad Omen Moon weight from 5 to 0, which *hopefully* prevents it from ever showing up again.
+    - Changed Hero Moon weight from 5 to 10.
+    - Changed Eclipse Moon weight from 2 to 50.
+
+
+<details>
+<summary>1201.0.1-alpha.30 mod updates</summary>
+
+- 2025.06.25
+  - Moonlight Lib `2.14.10` to `2.14.11`
+- 2025.06.24
+  - Chalk `1.6.5` to `1.6.6`
+  - Cucumber Library `7.0.13` to `7.0.14`
+  - EntityJS `0.5.4` to `0.5.6`
+  - FramedBlocks `9.4.1` to `9.4.2`
+  - GuideME `20.1.9` to `20.1.11`
+  - Modpack Update Checker `0.15.4` to `0.15.6`
+  - Moonlight Lib `2.14.4` to `2.14.10`
+  - Opalescence `1.0.2` to `1.0.2b`
+  - Platform `1.2.10` to `1.2.10.1`
+  - Sophisticated Backpacks `3.23.19.1251` to `3.23.19.1263`
+  - Sophisticated Core `1.2.69.1005` to `1.2.71.1022`
+  - Sophisticated Storage `1.3.49.1167` to `1.3.51.1182`
+  - Vanilla Backport `1.1.3` to `1.1.4.2`
+- 2025.06.16
+  - Create Mechanical Extruder `6.0.4` to `6.0.6`
+  - EntityJS `0.5.3` to `0.5.4`
+  - GeckoLib `4.7.1.3` to `4.7.2`
+  - Simple Discord RPC `4.0.2` to `4.0.3`
+  - Touhou Little Maid `1.3.5` to `1.3.6`
+- 2025.06.15 - 2025.06.16
+  - Almost Unified `0.9.5` to `0.10.0`
+  - AmbientSounds 6 `6.1.10` to `6.1.11`
+  - Applied Energistics 2 `15.4.2` to `15.4.5`
+  - Balm `7.3.29` to `7.3.31`
+  - CobbleGen `5.4.4` to `5.4.5`
+  - Create `6.0.4` to `6.0.6`
+  - Create: Copycats+ `3.0.0` to `3.0.2`
+  - Create: Enchantment Industry `6.0.4` to `6.0.6`
+  - Create: Power Loader `2.0.0` to `2.0.3`
+  - Dark Doppelganger: Iron's Spells and Spellbooks Addon `9.2.3` to `9.3.2`
+  - Easy Villagers `1.1.27` to `1.1.29`
+  - EntityJS `0.4.9` to `0.5.3`
+  - Exposure `1.7.13` to `1.7.16`
+  - Farmer's Delight `1.2.7` to `1.2.8`
+  - GeckoLib `4.7.1.2` to `4.7.1.3`
+  - GuideME `20.1.7` to `20.1.9`
+  - Lightman's Currency `2.2.5.2a` to `2.2.5.4`
+  - Lunar `0.2.1` to `0.2.2`
+  - Mantle `1.11.44` to `1.11.63` `` to ``
+  - MmmMmmMmmMmm (Target Dummy) `2.0.6` to `2.0.7`
+  - ModernFix `5.22.0` to `5.23.1`
+  - Monobank `1.1.4` to `1.1.5`
+  - Moonlight Lib `2.14.1` to `2.14.4`
+  - MoreJS `0.10.0` to `0.10.1`
+  - Mowzie's Mobs `1.7.2` to `1.7.3`
+  - Particular `1.2.1` to `1.2.4`
+  - Platform `1.2.7.1` to `1.2.10`
+  - Sophisticated Backpacks `3.23.17.1246` to `3.23.19.1251`
+  - Sophisticated Backpacks Create Integration `0.1.2.8` to `0.1.3.11`
+  - Sophisticated Core `1.2.59.984` to `1.2.69.1005`
+  - Sophisticated Storage `1.3.44.1157` to `1.3.49.1167`
+  - Sophisticated Storage Create Integration `0.1.10.30` to `0.1.12.36`
+  - Supplementaries `3.1.30` to `3.1.31`
+  - Tinker's Construct `3.9.2.37` to `3.10.1.76` `` to ``
+  - TooManyRecipeViewers `0.4.1` to `0.5.1`
+  - Touhou Little Maid `1.2.2-hotfix` to `1.3.5`
+
+</details>
+
+### Removed
+
+- 2025.06.16
+  - Removed Sanity: Descent Into Madness due to lingering issues that I can't seem to fix.
+
+<details>
+<summary>1201.0.1-alpha.30 mod removals</summary>
+
+- 2025.06.16
+  - Sanity: Descent Into Madness
+
+</details>
