@@ -1,0 +1,160 @@
+It is now 2026.02.02. It's been a while.
+
+While this is technically still a minor update, there are breaking changes.
+
+### Fixed
+
+- 2026.02.02
+  - Fixed recipe conflict for compacting Crying Obsidian in a superheated Create Basin by changing its recipe entirely. See changes in the Changed section.
+
+### Added
+
+- 2026.02.02
+  - Reinstated JEI.
+  - Added some of SuperMartijn642's Fusion resource packs.
+    - Fusion Block Transitions
+    - Fusion Connected Glass
+    - Fusion Emissive Ores
+
+<details>
+<summary>1201.0.1-alpha.35 mod additions</summary>
+
+- 2026.02.02
+  - Loot Journal
+  - Obscure Tooltips
+
+</details>
+
+### Changed
+
+- 2026.02.04
+  - Enabled ModernFix's Dynamic Resources mixin to reduce RAM usage as this update has added memory overhead. Hopefully there are no future problems from this.
+  - You can no longer sleep during Blood Moon, Hero Moon and Eclipse moon events from Lunar.
+  - JEI now uses the correct button highlight color for Omnia.
+- 2026.02.02
+  - Updated Forge from 47.3.39 to 47.4.16
+  - C.U.E superheated recipe now utilizes 1x Crying Obsidian, 1x Twisting Vines and 1x Weeping Vines.
+  - AE2's Matter Cannon has been reverted back to its original recipe instead of requiring Mechanical Crafters with the only change being that it uses Iridium Ingots instead of Iron Ingots.
+
+<details>
+<summary>1201.0.2-alpha.35 mod updates</summary>
+
+- 2026.02.08
+  - Platform `1.2.11.4` to `1.2.11.5`
+  - Rechiseled `1.2.1` to `1.2.2`
+  - Sophisticated Backpacks `3.24.20.1500` to `3.24.21.1515`
+  - Sophisticated Core `1.3.1.1460` to `1.3.2.1468`
+  - Sophisticated Storage `1.4.23.1468` to `1.4.24.1486`
+  - Vanilla Backport `1.1.5.2` to `1.1.5.4`
+- 2026.02.02
+  - AlmostUnified `0.10.0` to `0.11.0`
+  - AmbientSounds `6.1.11` to `6.3.4`
+  - Amendments `1.2.19` to `2.2.5`
+  - Applied Energistics 2 `15.4.5` to `15.4.10`
+  - Balm `7.3.31` to `7.3.38`
+  - Baubley Heart Canisters `1.1.0` to `1.1.1`
+  - Caupona `0.4.13` to `0.4.14`
+  - Chalk `1.6.6` to `1.6.7`
+  - Citadel `2.6.1` to `2.6.3`
+  - CobbleGen `5.4.5` to `5.4.7`
+  - Collective `8.3` to 8.13`
+  - Connected Glass `1.1.13` to `1.1.14`
+  - Crafting Tweaks `18.2.5` to `18.2.8`
+  - CraterLib `2.1.5` to `3.0.1`
+  - Create `6.0.6` to 6.0.8`
+  - Create Crafts & Additions `1.3.1` to `1.3.3`
+  - Create Mechanical Extruder `1.6.10-6.0.6` to `1.6.11-6.0.6` Note to self: Check if it works with Create 6.0.8 first.
+  - Create: Central Kitchen `1.4.1` to `1.4.3b` Note to self: Check if it works with Create 6.0.8 first.
+  - Create: Copycats+ `3.0.2` to `3.0.4` Note to self: Check if it works with Create 6.0.8 first.
+  - Create: Interiors `0.5.7` to `0.6.0`
+  - Create: Some Assembly Required `4.2.0` to `4.2.2`
+  - Cucumber Library `7.0.14` to `7.0.16`
+  - Dark Doppelganger: Iron's Spells and Spellbooks `9.3.2` to `9.7.1`
+  - Dark Paintings `17.0.4` to `17.0.5`
+  - Default Options `18.0.1` to `18.0.4`
+  - Drippy Loading Screen `3.0.12` to `3.1.0`
+  - Easy Villagers `1.1.29` to `1.1.39`
+  - Enchantment Descriptions `17.1.19` to `17.1.20`
+  - EntityJS `0.5.6` to `0.6.6`
+  - FancyMenu `3.5.2` to `3.8.1`
+  - Farmer's Delight `1.2.8` to `1.2.9`
+  - FindMe `3.2.1` to `3.2.3`
+  - Formations (Structure Library) `1.0.3` to `1.0.4`
+  - Formations Overworld `1.0.4` to `1.0.5`
+  - FramedBlocks `9.4.2` to `9.4.3`
+  - Fruitful Fun `7.6.10` to `7.8.5`
+  - FTB Library `2001.2.9` to `2001.2.12`
+  - FTB Quests `2001.4.13` to `2001.4.17`
+  - FTB Teams `2001.3.1` to `2001.3.2`
+  - FTB Ultimine `2001.1.5` to `2001.1.7`
+  - Fusion (Connected Textures) `1.2.7b` to `1.2.12`
+  - GeckoLib `4.7.2` to `4.8.3`
+  - Goblin Traders `1.9.3` to `1.11.5`
+  - GuideME `20.1.11` to `20.1.14`
+  - Integrated Cataclysm `1.0.4` to `1.0.5`
+  - Integrated Dungeons and Structures `1.11.1` to `1.12.1`
+  - Iron's Spells 'n Spellbooks `3.4.0.9` to `3.15.2`
+  - Item Collectors `1.1.10` to `1.1.11`
+  - Jade `11.13.1` to `11.13.2`
+  - Kiwi `11.8.31` to `11.10.1`
+  - KleeSlabs `15.0.6` to `15.0.11`
+  - L_Ender's Cataclysm `2.66` to `3.16`
+  - Lightman's Currency `2.2.5.4` to `2.3.0.4d`
+  - LootJS `2.13.0` to `2.13.1`
+  - Lootr `0.7.35.91` to `0.7.35.94`
+  - Lunar `0.2.2` to `0.2.7`
+  - Lychee `5.1.19` to `5.1.24`
+  - Mahou Tsukai `1.34.78` to `1.34.81`
+  - Mantle `1.11.63` to `1.11.104`
+  - MmmMmmMmmMmm (Target Dummy) `2.0.7` to `2.0.9`
+  - ModernFix `5.23.1` to `5.26.2`
+  - Moonlight Lib `2.14.11` to `2.16.27`
+  - Obscure Tooltips `3.9.0` to `3.10.0`
+  - Opalescence `1.0.2b` to `1.0.4`
+  - Particular Reforged `1.2.4` to `1.2.7`
+  - Pickle Tweaks `8.0.5` to `8.0.6`
+  - Platform `1.2.10.1` to `1.2.11.4`
+  - Puzzles Lib `8.1.32` to `8.1.33`
+  - Rechiseled `1.1.6` to `1.2.1`
+  - Rechiseled: Create `1.0.2a` to `1.1.0`
+  - Relics `0.8.0.8` to `0.8.0.11` POSSIBLE CRASH CAUSE
+  - Relics: Artifacts Compat `0.1.7` to `0.5`
+  - Reliquary `2.0.45.1248` to `2.0.55.1326`
+  - Scholar `1.1.5.1` to `1.1.9`
+  - Simple Discord RPC `4.0.3` to `4.0.5`
+  - Sophisticated Backpacks `3.23.19.1263` to `3.24.20.1500`
+  - Sophisticated Backpacks Create Integration `0.1.3.11` to `0.1.5.30`
+  - Sophisticated Core `1.2.71.1022` to `1.3.1.1460`
+  - Sophisticated Storage `1.3.51.1182` to `1.4.23.1468`
+  - Sophisticated Storage Create Integration `0.1.12.36` to `0.1.15.63`
+  - SuperMartijn642's Core Lib `1.1.18` to `1.1.20`
+  - Supplementaries `3.1.31` to `3.1.42`
+  - Supplementaries Squared `1.1.21` to `1.1.29`
+  - Tesseract `1.0.37` to `1.0.38`
+  - Text Animator `2.4.0` to `2.5.4`
+  - Tinkers Construct `3.10.1.76` to `3.11.2.166`
+  - Touhou Little Maid `1.3.6` to `1.5.0`
+  - Vanilla Backport `1.1.4.2` to `1.1.5.2`
+  - Visual Workbench `8.0.0` to `8.0.1`
+  - Wares `1.2.9` to `1.2.10`
+  - Zeta `1.0-30` to `1.0-31`
+  - Zume `1.1.4` to `1.2.1`
+
+</details>
+
+### Removed
+
+- 2025.06.16
+  - Due to visually missing recipes, EMI has been removed and JEI reinstated.
+
+<details>
+<summary>1201.0.2-alpha.35 mod removals</summary>
+
+- 2026.02.02
+  - EMI
+  - Iceberg
+  - Legendary Tooltips
+  - Pickup Notifier
+  - TooManyRecipeViewers
+
+</details>
