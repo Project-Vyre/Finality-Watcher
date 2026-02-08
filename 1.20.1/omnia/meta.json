@@ -59,7 +59,8 @@
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality"
         }
-      }
+      },
+      "updateType": "minor_breaking"
     }
   ]
 }
