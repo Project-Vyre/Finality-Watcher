@@ -12,7 +12,6 @@ While this is technically still a minor update, there are breaking changes.
 - 2026.02.02
   - Reinstated JEI.
   - Added some of SuperMartijn642's Fusion resource packs.
-    - Fusion Block Transitions
     - Fusion Connected Glass
     - Fusion Emissive Ores
 
