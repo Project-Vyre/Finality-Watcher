@@ -16,7 +16,7 @@ While this is technically still a minor update, there are breaking changes.
     - Fusion Emissive Ores
 
 <details>
-<summary>1201.0.1-alpha.35 mod additions</summary>
+<summary>1201.0.2-alpha.35 mod additions</summary>
 
 - 2026.02.02
   - Loot Journal
@@ -143,7 +143,7 @@ While this is technically still a minor update, there are breaking changes.
 
 ### Removed
 
-- 2025.06.16
+- 2025.02.02
   - Due to visually missing recipes, EMI has been removed and JEI reinstated.
 
 <details>
