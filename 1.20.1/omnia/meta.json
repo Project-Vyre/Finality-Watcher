@@ -61,6 +61,16 @@
         }
       },
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "1201.0.3-alpha.36-rc1",
+      "releasedAt": 1747329420,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/finality"
+        }
+      },
+      "updateType": "minor_breaking"
     }
   ]
 }
